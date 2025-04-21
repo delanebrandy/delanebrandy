@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delanebrandy
 - 🌱 I’m currently learning Computer Science at Queen Mary Univesity of London
-- 👀 I’m interested in algortimic bias, ui/ux design, games development & software engineering. 
+- 👀 I’m interested in, open-soruce swe, algortimic bias, and design. 
 
 
 <!---
